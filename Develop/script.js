@@ -59,5 +59,3 @@ function writePassword() {
 }
 
 generateBtn.addEventListener("click", writePassword);
-
-//Testing Push
